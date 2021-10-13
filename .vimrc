@@ -25,7 +25,7 @@ set backspace=indent,eol,start
 set term=xterm-256color
 syntax enable
 set background=dark
-colorscheme solarized
+#colorscheme solarized
 
 execute pathogen#infect()
 

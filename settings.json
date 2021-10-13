@@ -1,0 +1,86 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.highlightModifiedTabs": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.tabSize": 2,
+    "workbench.editor.splitSizing": "split",
+    "editor.scrollBeyondLastLine": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.insertFinalNewline": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "search.showLineNumbers": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "explorer.autoReveal": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "colorInfo.languages": [
+        {
+            "selector": "js",
+            "colors": "css"
+        },
+        {
+            "selector": "css",
+            "colors": "css"
+        },
+        {
+            "selector": "sass",
+            "colors": "css"
+        },
+        {
+            "selector": "scss",
+            "colors": "css"
+        },
+        {
+            "selector": "less",
+            "colors": "css"
+        }
+    ],
+    "colorize.languages": [
+        "javascript",
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "postcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg"
+    ],
+    "editor.foldingHighlight": false,
+    "prettier.arrowParens": "avoid",
+    "prettier.singleQuote": true,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.value": 8,
+    "elixirLS.suggestSpecs": false,
+    "gitlens.menus": false,
+    "gitlens.advanced.messages": {
+        "suppressFileNotUnderSourceControlWarning": true
+    },
+    "ruby.intellisense": "rubyLocate",
+    "ruby.codeCompletion": "rcodetools",
+    "ruby.format": "rubocop",
+    "editor.minimap.maxColumn": 80,
+    "editor.overviewRulerBorder": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "eslint.codeAction.showDocumentation": {
+        "enable": true
+    },
+    "eslint.validate": ["typescript", "typescriptreact"],
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "eslint.packageManager": "yarn",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnSave": true,
+}
